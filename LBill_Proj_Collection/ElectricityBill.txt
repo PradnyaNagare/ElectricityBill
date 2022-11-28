@@ -1,0 +1,11 @@
+0187861231,Pradnya,Solapur,650
+0187861232,Shrini,Pune,1100
+0187861233,Prachi,Satara,483
+0187861234,Trupti,Kolhapur,950
+0187861231,Rutuja,Pune,420
+0187861236,Shrushti,Pune,550
+0187861237,Vidhya,saswad,634
+0187861238,Nayan,Banglore,544
+01878612,S,Invalid,120
+187861238,yyy,500
+0187861239,Rahul,Hingoli,600
